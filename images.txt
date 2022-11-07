@@ -1,1 +1,1 @@
-gcr.io/ml-pipeline/visualization-server:2.0.0-alpha.5
+gcr.io/kubeflow-ci/tf-mnist-with-summaries:1.0
